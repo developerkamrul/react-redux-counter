@@ -4,5 +4,7 @@
 
 ### clone with this command :
 
-```git clone https://github.com/itisKAMRUL/react-redux-counter.git
+```
+git clone https://github.com/itisKAMRUL/react-redux-counter.git
+
 ```
