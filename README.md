@@ -1,10 +1,10 @@
 # React Redux Counter
 
-## This site is live here: [React Redux Counter](https://itiskamrul.github.io/react-redux-counter/).
+## This site is live here: [React Redux Counter](https://developerkamrul.github.io/react-redux-counter/).
 
 ### clone with this command :
 
 ```
-git clone https://github.com/itisKAMRUL/react-redux-counter.git
+git clone https://github.com/developerkamrul/react-redux-counter.git
 
 ```
